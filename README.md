@@ -37,8 +37,7 @@ Policy Stances (Abortion and Gun Policy):
 
 Abortion Stance: 0 - Does not support legalized abortion. 1 - Does support legalized abortion.
 
-Gun Policy: Support or opposition to gun control measures. Annotated as 1 through 4. 
-Voting Record and Bills Passed:
+Gun Policy: Support or opposition to gun control measures. 
 
 Voting Record: Percentage of votes they participated in.
 
